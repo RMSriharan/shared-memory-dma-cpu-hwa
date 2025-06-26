@@ -87,17 +87,3 @@ Open two terminals:
 [CPU] Waiting for HWA to process...
 [CPU] HWA response (preview): BCDEFGHIJKLMNOPQRSTUVWXYZABCDE...
 ```
-
----
-
-
-## 🧰 Next Enhancements (Optional)
-- Add `sem_t` for event signaling
-- Measure round-trip latency with `clock_gettime()`
-- Extend to multi-HWA model using forked processes
-
----
-
-## 📜 License
-
-MIT License — Use freely for learning and showcasing.
